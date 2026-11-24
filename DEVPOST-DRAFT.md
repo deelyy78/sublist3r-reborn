@@ -18,9 +18,9 @@ spec-first with Kiro.
 
 ## Links (fill in before submitting)
 
-- **GitHub repo (public, MIT):** `https://github.com/deelyy78/<REPO-NAME>` ← placeholder — create the public repo, push this code, paste the real URL here and in Devpost.
+- **GitHub repo (public, MIT):** `https://github.com/deelyy78/sublist3r-reborn`
 - **Demo video (< 3 min, YouTube/Vimeo):** `<VIDEO URL>` ← placeholder — record per the script at the bottom of this draft.
-- **Try it out:** `pip install git+https://github.com/deelyy78/<REPO-NAME>` (or clone + `pip install .`)
+- **Try it out:** `pip install git+https://github.com/deelyy78/sublist3r-reborn` (or clone + `pip install .`)
 
 ## Description (paste into "Project Description")
 
