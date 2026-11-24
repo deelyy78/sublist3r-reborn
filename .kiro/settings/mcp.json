@@ -1,0 +1,1 @@
+{"mcpServers":{"sublist3r-reborn":{"args":["-m","sublist3r_reborn.mcp_server"],"autoApprove":["resolve_records"],"command":"python3","disabled":false,"env":{}}}}
